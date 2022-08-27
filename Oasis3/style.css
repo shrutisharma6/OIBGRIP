@@ -1,0 +1,47 @@
+.container form input{
+    
+    border: none;
+    border-bottom: 2px solid gray;
+    margin: 8px 0;
+    width: 75%;
+    padding: 12px 15px;
+    border-radius: 5px;
+}
+.container{
+    margin-top: 1in;
+    background-color:rgb(243, 240, 240);
+    padding: 30px;
+    width: 33%;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+.container select{
+    width: 40%;
+    padding: 10px;
+    background-color:  rgb(228, 223, 223);
+    border-radius: 5px;
+}
+.container form button{
+    padding: 10px;
+    width: 75%;
+    background-color: rgb(9, 134, 237);
+    color: white;
+    border: 0ch;
+    font-size: 14pt;
+    border-radius: 5px;
+}
+.container form button:hover{
+    background-color: rgb(108, 180, 239);
+    color: white;
+}
+.head{
+    background-color: rgb(211, 208, 208);
+    padding: 10px;
+    margin: 0%;
+    border-bottom:2px solid gray ;
+    font-size: 18pt;
+    border-radius: 5px;
+}
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
