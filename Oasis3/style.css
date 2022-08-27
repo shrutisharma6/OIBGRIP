@@ -21,7 +21,7 @@
     background-color:  rgb(228, 223, 223);
     border-radius: 5px;
 }
-.container form button{
+#button{
     padding: 10px;
     width: 75%;
     background-color: rgb(9, 134, 237);
@@ -30,7 +30,7 @@
     font-size: 14pt;
     border-radius: 5px;
 }
-.container form button:hover{
+#button:hover{
     background-color: rgb(108, 180, 239);
     color: white;
 }
